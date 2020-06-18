@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: white;
+}
+h1{
+    text-align: center;
+    padding: 28px;
+    color: black;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    color: rgb(5, 4, 63);
+}
+.des{
+    color: rgb(5, 4, 63);
+    text-align: center;
+    padding: 5px;
+}
+.signup{
+    background-color:transparent;
+    border: 3px solid #2d85b0;
+    position: relative;
+    left: 450px;
+    width: 400px;
+    height: 520px;
+    padding: 20px;
+    margin: 0px 100px 100px 70px; 
+}
+#signup{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+#fname{
+    width: 129px;
+    padding: 7px;
+    border-color: #84939b;
+    border-radius:5px ;
+}
+#lname{
+    width: 129px;
+    padding: 7px;
+    border-color: #84939b;
+    border-radius:5px ;
+}
+#uname{
+    width: 285px;
+    padding: 7px;
+    border-color: #84939b;
+    border-radius:5px ;
+}
+#mnum{
+    width: 285px;
+    padding: 7px;
+    border-color: #84939b;
+    border-radius:5px ;
+}
+#email{
+    width: 285px;
+    padding: 7px;
+    border-color: #84939b;
+    border-radius:5px ;
+}
+#pwd{
+    width: 129px;
+    padding: 7px;
+    border-color: #84939b;
+    border-radius:5px ;
+}
+#conpwd{
+    width: 129px;
+    padding: 7px;
+    border-color: #84939b;
+    border-radius:5px ;
+}
+#submit{
+    width: 292px;
+    padding: 7px;
+    border: none;
+    border-radius:5px ;
+    color: white;
+    background-color:rgb(6, 6, 71) ;
+}
